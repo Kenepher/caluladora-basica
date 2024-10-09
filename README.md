@@ -4,7 +4,7 @@ Uma simples calculadora web que permite realizar operações matemáticas básic
 
 ## Demonstração
 
-![Demonstração da Calculadora]([link-para-imagem.png](https://github.com/Kenepher/caluladora-basica/blob/main/Calculadora%20Basica/imagens/Demonstracao%20Calculadora))  
+![Demonstração da Calculadora](https://github.com/Kenepher/caluladora-basica/blob/main/Calculadora%20Basica/imagens/Demonstracao%20Calculadora.png)
 
 ## Tecnologias Utilizadas
 
